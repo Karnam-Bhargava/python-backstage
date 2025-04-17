@@ -1,4 +1,4 @@
-name: Run Flask Hello App with Ngrok
+name: Run Application
 
 on:
   workflow_dispatch:
